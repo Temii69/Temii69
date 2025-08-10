@@ -1,6 +1,6 @@
 ## Hi, i'm Temii 👋
 
-🧠 computer science gradute at Kwasu
+🧠 computer science gradute from Kwasu
 
 💡 **Entrepreneur | Developer | Innovator**  
 I’m passionate about building software, solving real-world problems, and inspiring others to create opportunities instead of waiting for them.  
